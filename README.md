@@ -12,7 +12,7 @@ Lista zamówień jest pobierana z bazy danych z tabeli `OrderTable`.
   
 
 
-## Zadanie 2: Aplikacja WPF - Zbieranie Danych z Plików XML
+# Zadanie 2: Aplikacja WPF - Zbieranie Danych z Plików XML
 
 ## Opis
 Aplikacja jest przeznaczona do agregowania danych produktowych z wielu dostawców i prezentacji ich w jednym widoku za pomocą aplikacji WPF (Windows Presentation Foundation). 
