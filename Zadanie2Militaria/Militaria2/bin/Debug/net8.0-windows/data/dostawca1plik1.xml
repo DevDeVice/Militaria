@@ -1,0 +1,22 @@
+<offer file_format="IOF" version="2.5" generated="2024-06-17 19:34:29">
+  <products currency="PLN">
+    <product id="9944">
+      <price gross="54.39" net="44.22" vat="23.0" />
+      <srp gross="79.99" net="65.03" vat="23.0" />
+      <sizes>
+        <size id="202" code_producer="5908221333684" code="9944-202" weight="0">
+          <stock id="7" quantity="60" />
+        </size>
+      </sizes>
+    </product>
+    <product id="11076">
+      <price gross="67.99" net="55.28" vat="23.0" />
+      <srp gross="99.99" net="81.29" vat="23.0" />
+      <sizes>
+        <size id="0" code_producer="5908221337019" code="11076-0" weight="0">
+          <stock id="7" quantity="39" />
+        </size>
+      </sizes>
+    </product>
+  </products>
+</offer>

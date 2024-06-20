@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<products elments="3281" clientid="73933" lang="pl" datetime="17.06.2024 20:05:28">
+  <product>
+    <ean><![CDATA[050234935753]]></ean>
+    <id>51</id>
+    <sku><![CDATA[LENS PEN]]></sku>
+    <inStock>True</inStock>
+    <qty>6</qty>
+    <availability></availability>
+  </product>
+</products>

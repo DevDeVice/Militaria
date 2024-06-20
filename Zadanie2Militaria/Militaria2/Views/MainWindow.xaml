@@ -1,0 +1,57 @@
+﻿<Window x:Class="Militaria2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Product Aggregator" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <DataGrid Grid.Row="0" ItemsSource="{Binding Products}" AutoGenerateColumns="False" CanUserAddRows="False" IsReadOnly="false">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="EAN" Binding="{Binding EAN}" Width="100"/>
+                <DataGridTextColumn Header="SKU" Binding="{Binding SKU}" Width="100"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}" Width="300"/>
+                <DataGridTextColumn Header="Gross Price" Binding="{Binding GrossPrice}" Width="100"/>
+                <DataGridTextColumn Header="Net Price" Binding="{Binding NetPrice}" Width="100"/>
+                <DataGridTextColumn Header="VAT" Binding="{Binding VAT}" Width="50"/>
+                <DataGridTextColumn Header="Stock Quantity" Binding="{Binding StockQuantity}" Width="100"/>
+                <DataGridTemplateColumn Header="Image" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Images[0]}" Height="50" Width="50"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Variants" Width="300">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ItemsControl ItemsSource="{Binding Variants}">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{Binding Code}" Margin="5"/>
+                                            <TextBlock Text=" - "/>
+                                            <TextBlock Text="{Binding Quantity}" Margin="5"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridCheckBoxColumn Header="Flag for Offer" Binding="{Binding FlaggedForOffer}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Content="Load Products" Command="{Binding LoadProductsCommand}" 
+                HorizontalAlignment="Center" VerticalAlignment="Bottom"
+                Width="100" Height="30" Grid.Row="1" Margin="0,10"/>
+    </Grid>
+</Window>

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|c:\\users\\sejko\\desktop\\wpf\\militaria\\zadanie1militaria\\zadanie1militaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\zadanie1militaria\\services\\pkcehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\services\\pkcehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\zadanie1militaria\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\zadanie1militaria\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\zadanie1militaria\\services\\allegroclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\services\\allegroclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\zadanie1militaria\\models\\billingentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E753F573-E428-4371-8609-C28FDC224197}|Zadanie1Militaria\\Zadanie1Militaria.csproj|solutionrelative:zadanie1militaria\\models\\billingentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Program.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Program.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Program.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAqwBkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:01:15.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PKCEHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\PKCEHelper.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Services\\PKCEHelper.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\PKCEHelper.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Services\\PKCEHelper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:28:06.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Models\\Order.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:40:33.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Services\\DatabaseService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:54:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllegroClient.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\AllegroClient.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Services\\AllegroClient.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Services\\AllegroClient.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Services\\AllegroClient.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:54:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BillingEntry.cs",
+              "DocumentMoniker": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Models\\BillingEntry.cs",
+              "RelativeDocumentMoniker": "Zadanie1Militaria\\Models\\BillingEntry.cs",
+              "ToolTip": "C:\\Users\\sejko\\Desktop\\Wpf\\Militaria\\Zadanie1Militaria\\Zadanie1Militaria\\Models\\BillingEntry.cs",
+              "RelativeToolTip": "Zadanie1Militaria\\Models\\BillingEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:53:18.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
